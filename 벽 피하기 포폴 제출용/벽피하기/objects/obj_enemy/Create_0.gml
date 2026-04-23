@@ -1,0 +1,1 @@
+spd = random_range(3, 6);
